@@ -1,5 +1,5 @@
 # Project Name
-> CNN Assignment
+> CNN - Convolution Neural Networks for detecting skin cancer images.
 
 
 ## Table of Contents
